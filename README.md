@@ -1,15 +1,14 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Seth Chritzman! 👋
 
 ## About Me
 
 - 🔭 I’m currently working on [Project Name or Description]
-- 🌱 I’m currently learning [Technology or Skill]
-- 👯 I’m looking to collaborate on [Type of Projects]
-- 🤔 I’m looking for help with [Topic or Project]
-- 💬 Ask me about [Topic]
-- 📫 How to reach me: [Email or Social Media Links]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [Interesting Fact About You]
+- 🌱 I’m currently learning about hardware modifications, and React.
+- 👯 I’m looking to collaborate on Java Springboot Maven/OpenSource Projects.
+- 💬 Ask me about my job!
+- 📫 How to reach me: sethchritzman37@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love cooking and making food!
 
 ## My Skill Set
 
