@@ -40,18 +40,12 @@
 
 ## Some of my GitHub Stats
 
-![sdcman27's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![sdcman27's GitHub stats](https://github-readme-stats.vercel.app/api?username=sdcman27&show_icons=true&theme=radical)
 
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Your Blog Post Title Here](Link to Blog Post)
-- [Your Blog Post Title Here](Link to Blog Post)
-<!-- BLOG-POST-LIST:END -->
 
 ## Connect with me:
 
