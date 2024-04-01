@@ -2,8 +2,8 @@
 
 ## About Me
 
-- 🔭 I’m currently working on [Project Name or Description]
-- 🌱 I’m currently learning about hardware modifications, and React.
+- 🔭 I’m currently working on building my website and learning more front end design styles. 
+- 🌱 I’m currently learning about modifying hardware, TensorFlow and React.
 - 👯 I’m looking to collaborate on Java Springboot Maven/OpenSource Projects.
 - 💬 Ask me about my job!
 - 📫 How to reach me: sethchritzman37@gmail.com
