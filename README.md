@@ -45,7 +45,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sdcman27&layout=compact)](https://github.com/sdcman27/github-readme-stats)
 
 
 ## Connect with me:
