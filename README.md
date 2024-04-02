@@ -10,8 +10,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love cooking and making food!
 
-## My Skill Set
-
 <table><tr><td valign="top" width="33%">
 
 ### Very good at
@@ -53,15 +51,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sdcman27&layout=compact)](https://github.com/sdcman27/github-readme-stats)
 
-
-## Connect with me:
-
-[<img align="left" alt="YourAltText" width="22px" src="SocialMediaLink" />][youtube]
-[<img align="left" alt="YourAltText" width="22px" src="SocialMediaLink" />][linkedin]
-[<img align="left" alt="YourAltText" width="22px" src="SocialMediaLink" />][twitter]
-
-[youtube]: YoutubeLink
-[linkedin]: LinkedinLink
-[twitter]: TwitterLink
 
 <br />
