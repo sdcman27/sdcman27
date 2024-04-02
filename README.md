@@ -12,7 +12,7 @@
 
 <table><tr><td valign="top" width="33%">
 
-### Very good at
+### Excel/Experienced
 ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
@@ -26,7 +26,7 @@
 ![Back end Development](https://img.shields.io/badge/-Back%20end%20Development-000000?style=flat-square)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
 
-### Semi good at
+### Adequate/Accomplished
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)
 ![GLSL](https://img.shields.io/badge/-GLSL-5586A4?style=flat-square)
