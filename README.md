@@ -1,3 +1,6 @@
+
+![Seth Chritzman](https://github.com/sdcman27/Website/blob/master/MyWebsite/src/main/resources/static/images/715628A3-9397-4DD2-A3C9-805FBB1406CD.webp)
+
 # Hi there, I'm Seth Chritzman! 👋
 
 ## About Me
