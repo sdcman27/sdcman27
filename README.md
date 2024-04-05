@@ -26,7 +26,7 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux)
 ![Windows OS](https://img.shields.io/badge/-Windows%20OS-0078D6?style=flat-square&logo=windows)
-![Back end Development](https://img.shields.io/badge/-Back%20end%20Development-000000?style=flat-square)
+![Back end Development](https://img.shields.io/badge/-Backend%20Development-000000?style=flat-square)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
 
 ### Adequate/Accomplished
