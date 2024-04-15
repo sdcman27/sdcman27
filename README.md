@@ -55,5 +55,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sdcman27&layout=compact)](https://github.com/sdcman27/github-readme-stats)
 ---
 [![](https://visitcount.itsvg.in/api?id=sdcman27&label=Profile%20Views&color=1&icon=4&pretty=true)](https://visitcount.itsvg.in)
-
-<br />
