@@ -7,7 +7,7 @@
 
 - ⚡ I’m currently working on converting my website into a Springboot program, I am also learning more front end design styles. 
 - 😄 I’m currently learning about modifying hardware, TensorFlow and React. #RaspberryPi #FlipperZero #Adruino
-- ⚡ I’m looking to collaborate on Java Springboot Maven/OpenSource Projects.
+- ⚡ I’m looking to collaborate on Java Springboot Maven/SaaS projects.
 - 😄 Ask me about my job!
 - ⚡ How to reach me: sethchritzman37@gmail.com
 - 😄 Pronouns: He/Him
