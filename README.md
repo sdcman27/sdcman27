@@ -5,7 +5,7 @@
 
 ## About Me
 
-- ⚡ I’m currently working on converting my website into a Springboot program, I am also learning more front end design styles. 
+- ⚡ I’m currently working on creating a SaaS for a small company. 
 - 😄 I’m currently learning about modifying hardware, TensorFlow and React, Vite and Node.js. #RaspberryPi #FlipperZero #Adruino
 - ⚡ I’m looking to collaborate on Java Springboot Maven/SaaS projects.
 - 😄 Ask me about my job!
