@@ -10,7 +10,7 @@
 - ⚡ I’m looking to collaborate on Java Springboot Maven/SaaS projects.
 - 😄 Ask me about my job!
 - ⚡ How to reach me: sethchritzman37@gmail.com
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I love cooking, fishing, hiking, scripting, and hanging out with friends in my free time. 
 
 <table><tr><td valign="top" width="33%">
