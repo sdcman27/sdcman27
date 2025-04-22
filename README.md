@@ -24,10 +24,6 @@ I’m a results-driven software engineer with over 4 years of experience craftin
 ## ⚡ Favorite Tech
 <br />
 
-
-## ⚡ Favorite Tech
-<br />
-
 <table align="center">
   <tr>
     <td align="center" width="96">
