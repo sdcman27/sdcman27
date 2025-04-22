@@ -57,8 +57,8 @@ I’m a results-driven software engineer with over 4 years of experience craftin
       <br>C++
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-      <br>PHP
+      <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+      <br>Redis
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
@@ -83,8 +83,8 @@ I’m a results-driven software engineer with over 4 years of experience craftin
       <br>Git
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
-      <br>Laravel
+      <img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="Kafka" />
+      <br>Kafka
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
