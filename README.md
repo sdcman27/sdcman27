@@ -1,10 +1,22 @@
+![Seth Chritzman](https://github.com/sdcman27/Website/blob/master/MyWebsite/src/main/resources/static/images/715628A3-9397-4DD2-A3C9-805FBB1406CD.webp)
+
 # 👋 Welcome to my github ! <br />
 
 <p align="center">
-  <a href="https://github.com/monte1s"><img src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain%20developer;Web%20and%20mobile%20master;Senior%20Web3%20Engineer;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/monte1s"><img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20developer;Redis%20wizard;Event%20driven%20programmer;Data%20legend;Web%20and%20mobile%20master;%20Software%20engineer;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
-I’m a results-driven software engineer with over 4 years of experience crafting innovative solutions. <br /> My expertise lies in designing scalable and secure systems for clients worldwide. <br /> While many of my projects are confidential, you can check out my open-source contributions in the public repositories.
+I’m a results-driven software engineer with over 4 years of experience crafting innovative solutions. <br /> <br /> My expertise lies in designing scalable and secure systems for clients worldwide. <br /> <br /> 
+
+# About me !
+
+- ⚡ I’m currently working on creating a SaaS for a small company and a social media app. 
+- 😄 I’m currently learning about modifying hardware, TensorFlow and React, Vite and Nest.js. #RaspberryPi #FlipperZero #Adruino
+- ⚡ I’m looking to collaborate on projects!
+- 😄 Ask me about my job!
+- ⚡ How to reach me: sethchritzman37@gmail.com
+- 😄 Pronouns: He/Him.
+- ⚡ Fun fact: I love cooking, fishing, hiking, scripting, and hanging out with friends in my free time. 
 
 
 <img align="right" src="https://img.shields.io/github/followers/sdcman27?label=Follow&style=social" />
