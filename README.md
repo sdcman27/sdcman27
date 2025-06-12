@@ -6,7 +6,7 @@
   <a href="https://github.com/monte1s"><img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20developer;Redis%20wizard;Event%20driven%20programmer;Data%20legend;Web%20and%20mobile%20master;%20Book%20Worm;%20Software%20engineer;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
-I’m a results-driven software engineer with over 4 years of experience crafting innovative solutions. <br /> <br /> My expertise lies in designing scalable and secure systems for clients worldwide. <br /> <br /> 
+I’m a results-driven software engineer with about 5 years of experience crafting innovative solutions. <br /> <br /> My expertise lies in designing scalable and secure systems for clients worldwide. <br /> <br /> 
 
 # About me !
 
